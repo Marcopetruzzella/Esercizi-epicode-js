@@ -1,0 +1,9 @@
+body {width:100%}
+html{font-family: 'Open Sans', sans-serif;
+      font-family: 'Roboto', sans-serif;
+       text-align: center;}
+
+      ul li {list-style-type: none;}
+      li{ display: inline-block; padding: 15px;}
+li{border: black 1px solid; width: 6%;padding: 10px;}
+      .testorosso{color: white; background-color: red;}
