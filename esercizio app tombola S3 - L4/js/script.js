@@ -1,4 +1,4 @@
-//creiamo 76 numeri
+3//creiamo 76 numeri
 
     for(i=1 ; i<=76; i++){
         let ul =document.querySelector('ul')
